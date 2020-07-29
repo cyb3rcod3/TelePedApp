@@ -3,7 +3,7 @@
 
 <h3>Personal Data collected for the following purposes and using the following services:</h3>
 
-## Content performance and features testing (A/B testing)
+##### Content performance and features testing (A/B testing)
 
 You can use the [editor on GitHub](https://github.com/cyb3rcod3/TelePedApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
